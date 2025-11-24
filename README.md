@@ -62,9 +62,17 @@ Finalmente, cuando tu trabajo esté listo, sube tus cambios al repositorio remot
 
 Sección: "Problemas Encontrados Hoy"
 
-Conflictos de fusión: Al intentar fusionar mi rama con la rama principal, encontré un conflicto en el archivo index.html. Tuve que editar manualmente el archivo para resolver el conflicto y luego completar la fusión con git merge --abort en caso de errores.
+## Problemas del día
+- Hubo algunos problemas al gestionar las ramas y asegurarse de que todo estuviera sincronizado.
 
-Problemas con el seguimiento de archivos no rastreados: Olvidé añadir un archivo a la zona de preparación antes de hacer el commit. Como resultado, tuve que usar git add y luego realizar un nuevo commit.
+## ¿Qué aprendí hoy?
+- Aprendí a resolver conflictos en Git, manejar ramas correctamente y hacer un pull request para integrar cambios.
+
+## ¿Qué fue lo más difícil?
+- Lo más difícil fue coordinar el flujo de trabajo entre ramas y mantener todo actualizado en GitHub.
+
+## Conclusión del taller
+- El taller fue muy útil para entender los flujos de trabajo en Git, la importancia de las ramas y los pull requests. Me siento más cómodo trabajando con Git ahora.
 
 Sección: "Conclusión del Día"
 
