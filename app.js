@@ -22,6 +22,15 @@ function handleLogin(event) {
 form.addEventListener("submit", handleLogin);
 
 // Código del footer y cierre de sesión
+/*
+  Rama: feature/footer
+  Fecha: 24/11/2025
+  Descripción: footer.
+*/
+
+
+// footer.js
+
 function logout() {
     alert("Has cerrado sesión.");
     window.location.href = "index.html";  // Redirige al formulario de login
@@ -29,3 +38,4 @@ function logout() {
 
 document.getElementById("logout-btn").addEventListener("click", logout); 
 
+document.getElementById("logout-btn").addEventListener("click", logout);
